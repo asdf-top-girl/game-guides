@@ -1,0 +1,5 @@
+---
+permalink: tips
+---
+
+# Tips
